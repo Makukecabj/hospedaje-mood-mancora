@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hospedaje-mood-mancora.vercel.app/sitemap.xml
